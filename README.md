@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # Web_Password_Resetter
 # set_new_password
 # set_password_web
+# set_password_web
