@@ -73,7 +73,7 @@ class ChangePasswordViewController {
     _isLoading = false;
   }
 
-  String _error = '';
+  String _error = ' ';
   String get error => _error;
   void setError(String newError) {
     _error = newError;
