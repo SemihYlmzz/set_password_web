@@ -52,7 +52,10 @@ class GradientButton extends StatelessWidget {
                           Colors.transparent,
                           Colors.transparent,
                         ]
-                      : mainColorsList,
+                      : [
+                          Colors.green.withOpacity(0.75),
+                          Colors.green.withOpacity(0.59),
+                        ],
                 ),
               ),
               child: ElevatedButton(
